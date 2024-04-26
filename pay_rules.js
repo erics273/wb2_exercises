@@ -3,8 +3,8 @@
 //create som variables we need for our calculations
 
 //this is the hourly rate for the employee and the hours they worked
-let payRate = 25.00;
-let hoursWorked = 40;
+let payRate = 17.30;
+let hoursWorked = 45;
 
 //create some variables to hold the regular hours and overtime hours
 let regularHours = 0;
